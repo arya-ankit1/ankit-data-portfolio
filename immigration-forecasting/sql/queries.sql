@@ -1,0 +1,1 @@
+-- SQL not central for this project; analysis is Python/time-series focused.

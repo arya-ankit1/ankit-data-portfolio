@@ -1,0 +1,8 @@
+{
+  "pipeline_name": "analytics_ingestion_pipeline",
+  "activities": [
+    "copy_api_data",
+    "copy_blob_to_curated",
+    "load_reporting_tables"
+  ]
+}
