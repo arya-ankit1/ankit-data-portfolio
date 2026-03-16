@@ -2,7 +2,7 @@
 
 A curated portfolio of end-to-end analytics, machine learning, and data engineering projects designed to demonstrate business impact, technical depth, and production-style thinking for data roles in fintech, consulting, and product companies.
 
-## Portfolio Projects
+## Portfolio Projects: Fraud Detection | Churn Prediction | Azure Data Pipelines | Sales Analytics | Forecasting
 
 ### 1. Credit Card Fraud Detection
 **Focus:** Machine Learning, imbalanced classification, model evaluation, fraud analytics  
