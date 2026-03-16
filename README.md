@@ -1,4 +1,4 @@
-# Ankit Data Portfolio
+# Data Analytics & Machine Learning Portfolio – Ankit
 
 A curated portfolio of end-to-end analytics, machine learning, and data engineering projects designed to demonstrate business impact, technical depth, and production-style thinking for data roles in fintech, consulting, and product companies.
 
